@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+openai
+langchain
+langchain-openai
+langchain-community
+langchain-core
+langchain-pinecone
+langgraph
+langgraph-checkpoint
+langgraph-prebuilt
+langgraph-sdk
+python-dotenv
+pypdf
+chromadb
+pinecone
+httpx
